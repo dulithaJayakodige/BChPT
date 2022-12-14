@@ -1,0 +1,55 @@
+\begin{thebibliography}{}
+
+\bibitem[{Calle Cord{\'{o}}n} et~al., 2014]{CalleCordon2014}
+{Calle Cord{\'{o}}n}, A., Degrand, T., and Goity, J.~L. (2014).
+\newblock {Nc dependencies of baryon masses: Analysis with lattice QCD and
+  effective theory}.
+\newblock {\em Physical Review D - Particles, Fields, Gravitation and
+  Cosmology}, 90(1):1--14.
+
+\bibitem[Cord{\'{o}}n and Goity, 2013]{Cordon2013}
+Cord{\'{o}}n, A.~C. and Goity, J.~L. (2013).
+\newblock {Baryon masses and axial couplings in the combined 1/Nc and chiral
+  expansions}.
+\newblock {\em Physical Review D - Particles, Fields, Gravitation and
+  Cosmology}, 87(1):1--16.
+
+\bibitem[Fernando and Goity, 2018]{Fernando2018}
+Fernando, I.~P. and Goity, J.~L. (2018).
+\newblock {Baryon chiral perturbation theory combined with the 1 / N c
+  expansion in SU(3): Framework}.
+\newblock {\em Physical Review D}, 97(5).
+
+\bibitem[Fernando and Goity, 2020]{Fernando2020}
+Fernando, I.~P. and Goity, J.~L. (2020).
+\newblock {SU (3) vector currents in baryon chiral perturbation theory combined
+  with the 1/Nc expansion}.
+\newblock {\em Physical Review D}, 101(5):54026.
+
+\bibitem[Kubis, 2007]{kubis2007introduction}
+Kubis, B. (2007).
+\newblock An introduction to chiral perturbation theory.
+\newblock {\em arXiv preprint hep-ph/0703274}.
+
+\bibitem[Peskin and Schroeder, 1995]{Peskin1995}
+Peskin, M.~E. and Schroeder, D.~V. (1995).
+\newblock {\em {An Introduction to Quantum Field heory}}.
+\newblock CRC Press Taylor and Francis Group, Boca Raton.
+
+\bibitem[Pich, 1995]{pich1995chiral}
+Pich, A. (1995).
+\newblock Chiral perturbation theory.
+\newblock {\em Reports on Progress in Physics}, 58(6):563.
+
+\bibitem[Ramond, ]{Ramond}
+Ramond, P.
+\newblock {\em {Field Theory: A Modern Primer}}.
+\newblock Westview Press, second edi edition.
+
+\bibitem[Scherer, 2003]{scherer2003introduction}
+Scherer, S. (2003).
+\newblock Introduction to chiral perturbation theory.
+\newblock In {\em Advances in Nuclear Physics, Volume 27}, pages 277--538.
+  Springer.
+
+\end{thebibliography}
