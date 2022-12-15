@@ -2001,7 +2001,7 @@ Here, $\alpha= \frac{ i g_A^2}{768 \pi^2 F_\pi^4} $
 		\hline 
 		$J=0,I=0$ &  $ 0$  \\ 
 		$J=1,I=0$ &  $ 0$  \\ 
-		$J=0,I=1$ &  $ i \epsilon^{abc} I^c \left( k_1^0+k_2^0\right) \bigg( 40 M^2 +16 k_1.k_2 -3 (3k_1^0+k_2^0)(k_1^0+3k_2^0) \bigg) $  \\ 
+		$J=0,I=1$ &  $ i\alpha\; \epsilon^{abc} I^c \left( k_1^0+k_2^0\right) \bigg( 40 M^2 +16 k_1.k_2 -3 (3k_1^0+k_2^0)(k_1^0+3k_2^0) \bigg) $  \\ 
 		$J=1,I=1$ &  $  0 $\\
 		$J=2,I=0$ &  $  0 $  \\ 
 		$J=0,I=2$ &  $ 0 $  \\ 
@@ -2017,7 +2017,51 @@ Here, $\alpha= \frac{ i}{768 \pi^2 F_\pi^4} $
 
 
 
+\newpage
+\section{Construction of the Effective Lagrangian}
 
+Leading order Lagrangian
+
+\bea
+\mathcal{L}_{\pi N}^{(1)} = && B^{\dag} \left( iD_0 + \mathring{g}_A u^{ia} G^{ia} -\frac{C_{HF}}{N_c} \hat{S}^2 +\frac{c_1}{2 \Lambda } \hat{\chi}_+ \right) B \nonumber \\
+\mathcal{L}_{\pi \pi}^{(2)} = && \frac{F^{2}}{4} \Big \langle D_{\mu} U (D^{\mu} U)^{\dag} \Big \rangle +\frac{F^{2}}{4} \Big \langle   \chi U^{\dag}  +U \chi ^{\dag} \Big \rangle \nonumber
+\eea
+
+Effective Lagrangian
+\bea
+\mathcal{L}_{eff} = \mathcal{L}_{\pi \pi}^{(2)} +\mathcal{L}_{\pi \pi}^{(4)}+...+\mathcal{L}_{\pi N}^{(1)}+\mathcal{L}_{\pi N}^{(2)}+\mathcal{L}_{\pi N}^{(3)}+...\nonumber
+\eea
+
+
+Building blocks of the effective Lagrangian
+\bea
+D_{\mu} = && \partial_{\mu}+ \frac{1}{2} \left(  u^{\dag} \partial_{\mu} u + u \partial_{\mu} u^{\dag} \right)  \nonumber\\
+u_{\mu} = && i \left(  u^{\dag} \partial_{\mu} u - u \partial_{\mu} u^{\dag} \right) \nonumber\\
+\chi_{\pm}  = && u^{\dagger} \chi u^{\dagger} \pm u \chi^{\dagger} u \nonumber
+\eea
+
+
+Where $ \chi $ , is a linear combination of a scalar and pseudoscalar $ \chi = 2B(s+ip)$ \cite{scherer2003introduction} (page 80)
+In SU(2) $\chi = 2B M = 2B \left[ \begin{array}{cc}
+	m & 0 \\
+	0 & m\end{array} \right] $ \cite{scherer2003introduction} (page 88)	
+At $\mathcal{O}(p^2)$, $ M_{\pi}^2= 2Bm $ \cite{scherer2003introduction} (page 83)
+
+
+\vspace{5mm}
+
+
+$ \chi_{\pm}  = u^{\dagger} \chi u^{\dagger} \pm u \chi^{\dagger} u $ 
+
+$ \chi_{\pm}^{0} =\left\langle\chi_{\pm}\right\rangle $
+
+$  \chi_{\pm}^{a}  = \left\langle\chi_{\pm} I^a\right\rangle   $
+
+$ \tilde{\chi}_{\pm} = \chi_{\pm}^{a} I^{a} $
+
+\vspace{5mm}
+
+$ \hat{\chi}_{+} = \tilde{\chi}_{+} + N_c \: \chi_{+}^{0} $
 
 
 
