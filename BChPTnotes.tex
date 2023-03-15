@@ -13,6 +13,7 @@
 \usepackage{color}   % for coloring text
 \usepackage{indentfirst} % indent first paragaraph of a section
 
+
 \newcommand{\beq}{\begin{equation}}
 \newcommand{\eeq}{\end{equation}}
 \newcommand{\bea}{\begin{eqnarray}}
@@ -1999,7 +2000,7 @@ Here, $\alpha= \frac{ i g_A^2}{768 \pi^2 F_\pi^4} $
 		\hline 
 		Projection  & $1/ \epsilon$ term \\
 		\hline 
-		$J=0,I=0$ &  $ 0$  \\ 
+		$J=0,I=0$ &  $ \frac{-48 \alpha c_1 N_c M^2}{\Lambda} \delta_{ab} (5M^2-8k_1.k_2)$  \\ 
 		$J=1,I=0$ &  $ 0$  \\ 
 		$J=0,I=1$ &  $ i\alpha\; \epsilon^{abc} I^c \left( k_1^0+k_2^0\right) \bigg( 40 M^2 +16 k_1.k_2 -3 (3k_1^0+k_2^0)(k_1^0+3k_2^0) \bigg) $  \\ 
 		$J=1,I=1$ &  $  0 $\\
@@ -2065,6 +2066,111 @@ $ \tilde{\chi}_{\pm} = \chi_{\pm}^{a} I^{a} $
 $ \hat{\chi}_{+} = \tilde{\chi}_{+} + N_c \: \chi_{+}^{0} $
 
 
+
+
+
+\newpage
+\section{counter terms of $g_A^4$ diagrams}
+
+\bgroup
+\def\arraystretch{2.5}%  1 is the default, change whatever you need
+\begin{table}
+	[ht]
+	%\centering
+	\caption{counter terms of $g_A^4$ diagrams}\label{table:gA4} 
+	\begin{tabular}{ M{2.0cm} M{10cm}}
+		\hline 
+		Projection  & counter term \\
+		\hline 
+		$J=0,I=0$ &  $ 0 $  \\ 
+		$J=1,I=0$ &  $   \frac{ig_A^4}{3072 \pi^2 F_\pi^2} \left( u^{ia}\overleftrightarrow{D^0} u^{jb}  + u^{ia}\overleftrightarrow{D^j} u^{0b} \right) \delta^{ab} \epsilon^{ijk} S^k$  \\ 
+		$J=0,I=1$ &  $  \frac{ig_A^4}{3072 \pi^2 F_\pi^2} \left( u^{ia}\overleftrightarrow{D^0} u^{jb}  + u^{ia}\overleftrightarrow{D^j} u^{0b} \right)  \delta^{ij} \epsilon^{abc} I^c$  \\ 
+		$J=1,I=1$ &  $  \frac{-ig_A^4}{3072 \pi^2 F_\pi^2} \epsilon^{ijk} \epsilon^{abc} \bigg(i\left( u^{ia}\overleftrightarrow{D^0} u^{jb}  + u^{ia}\overleftrightarrow{D^j} u^{0b} \right) \left(2+N_c\right) \left[G^{kc},S^2\right] +2\frac{C_{HF}}{N_c} u^{ia}u^{jb}\bigg( \left(2+N_c\right) \left( 8G^{kc}+ \left[ \left[G^{kc},S^2 \right],S^2\right] \right)-24 S^kI^c \bigg)  \bigg)   $\\
+		$J=2,I=0$ &  $  \frac{-ig_A^4}{96 \pi^2 F_\pi^2} u^{ia}u^{jb} \delta^{ab} \frac{C_{HF}}{N_c} \left(SS\right)\mid_{J=2}^{ij} $  \\ 
+		$J=0,I=2$ &  $  \frac{-ig_A^4}{96 \pi^2 F_\pi^2} u^{ia}u^{jb} \delta^{ij} \frac{C_{HF}}{N_c} \left(II\right)\mid_{I=2}^{ab} $  \\ 
+		$J=2,I=1$ &  $  0 $  \\ 
+		$J=1,I=2$ &  $  0 $  \\ 
+		$J=2,I=2$ &  $  \frac{-ig_A^4}{384 \pi^2 F_\pi^2} \bigg(  i \left( u^{ia}\overleftrightarrow{D^0} u^{jb}  + u^{ia}\overleftrightarrow{D^j} u^{0b} \right) \left[ \left(GG\right)\mid_{J=I=2}^{ijab},S^2 \right] +2 u^{ia}u^{jb} \frac{C_{HF}}{N_c}  \bigg( \left[\left[ \left(GG\right)\mid_{J=I=2}^{ijab},S^2 \right],S^2\right] -24\left(GG\right)\mid_{J=I=2}^{ijab}   \bigg) \bigg) $  \\ 
+		\hline
+	\end{tabular}
+\end{table}
+\egroup
+
+Here, $\alpha^{ij} = \frac{ig_A^4}{768 \pi^2 F_\pi^4} k_1^i k_2^j $
+
+
+
+
+
+\newpage
+\section{counter terms of $g_A^2$ diagrams}
+
+\bgroup
+\def\arraystretch{2.5}%  1 is the default, change whatever you need
+\begin{table}
+	[ht]
+	%\centering
+	\caption{counter terms of $g_A^2$ diagrams}\label{table:gA4} 
+	\begin{tabular}{ M{2.0cm} M{9.5cm}}
+		\hline 
+		Projection  & counter term \\
+		\hline 
+		$J=0,I=0$ &  $ 2 \alpha \; \delta^{ab} \frac{C_{HF}}{N_c} \left(  3 N_c(4+Nc) -20 S^2\right) \left( 4 k_1.k_2-3M^2 \right)$  \\ 
+		$J=1,I=0$ &  $ 0$  \\ 
+		$J=0,I=1$ &  $ -i \alpha \bigg( \epsilon^{abc} I^c \bigg( 6\frac{C_{HF}}{N_c} \left( {k_2^0}^2-{k_1^0}^2 \right) \left( 4-5 N_c(4+Nc) \right) +\left( k_1^0+k_2^0 \right)(3\left( k_1-k_2 \right)^2+3\left( k_1^0-k_2^0 \right)^2+ 4 \vec{k_1}.\vec{k_2})- 4 \left( k_1^0 \vec{k_2}^2+k_2^0\vec{k_1}^2 \right) \bigg) + \epsilon^{abc} I^c S^2 \left( 168 \frac{C_{HF}}{N_c} \left( {k_2^0}^2-{k_1^0}^2\right) \right) \bigg)$  \\ 
+		$J=1,I=1$ &  $  24 \alpha \;\epsilon^{abc}\epsilon^{ijk} \frac{C_{HF}}{N_c} \left( (2+N_c) G^{kc}-3 S^kI^c\right) k_1^i k_2^j  $\\
+		$J=2,I=0$ &  $  0 $  \\ 
+		$J=0,I=2$ &  $  -48\alpha \;  \frac{C_{HF}}{N_c} k_1.k_2 \left(II\right)\mid_{I=2}^{ab} $  \\ 
+		$J=2,I=1$ &  $  0 $  \\ 
+		$J=1,I=2$ &  $  0 $  \\ 
+		$J=2,I=2$ &  $  0 $  \\ 
+		\hline
+	\end{tabular}
+\end{table}
+\egroup
+
+Here, $\alpha= \frac{ i g_A^2}{768 \pi^2 F_\pi^4} $
+
+
+
+
+\newpage
+\section{$1/ \epsilon$ terms of $g_A^0$ diagrams}
+
+\bgroup
+\def\arraystretch{2.5}%  1 is the default, change whatever you need
+\begin{table}
+	[ht]
+	%\centering
+	\caption{$1/ \epsilon$ terms of $g_A^0$ diagrams}\label{table:gA4} 
+	\begin{tabular}{ M{2.0cm} M{9.5cm}}
+		\hline 
+		Projection  & $1/ \epsilon$ term \\
+		\hline 
+		$J=0,I=0$ &  $ \frac{-48 \alpha c_1 N_c M^2}{\Lambda} \delta_{ab} (5M^2-8k_1.k_2)$  \\ 
+		$J=1,I=0$ &  $ 0$  \\ 
+		$J=0,I=1$ &  $ i\alpha\; \epsilon^{abc} I^c \left( k_1^0+k_2^0\right) \bigg( 40 M^2 +16 k_1.k_2 -3 (3k_1^0+k_2^0)(k_1^0+3k_2^0) \bigg) $  \\ 
+		$J=1,I=1$ &  $  0 $\\
+		$J=2,I=0$ &  $  0 $  \\ 
+		$J=0,I=2$ &  $ 0 $  \\ 
+		$J=2,I=1$ &  $  0 $  \\ 
+		$J=1,I=2$ &  $  0 $  \\ 
+		$J=2,I=2$ &  $  0 $  \\ 
+		\hline
+	\end{tabular}
+\end{table}
+\egroup
+
+Here, $\alpha= \frac{ i}{768 \pi^2 F_\pi^4} $
+
+
+
+
+
+\newpage
+\section{Symmetries}
+
+“invariance under a specified group of transformations”
 
 \newpage
 blank page

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.9.14)  30 DEC 2022 17:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.9.14)  15 MAR 2023 09:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -228,23 +228,32 @@ LaTeX Warning: Label `table:gA4' multiply defined.
 
 LaTeX Warning: Label `table:gA4' multiply defined.
 
+
+LaTeX Warning: Label `table:gA4' multiply defined.
+
+
+LaTeX Warning: Label `table:gA4' multiply defined.
+
+
+LaTeX Warning: Label `table:gA4' multiply defined.
+
 )
 \openout1 = `BChPTnotes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count276
@@ -270,7 +279,7 @@ e
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (7.94153pt too wide) in paragraph at lines 74--75
+Overfull \hbox (7.94153pt too wide) in paragraph at lines 75--76
 []\OT1/cmr/m/n/10 Where, $ \OML/cmm/m/it/10 U \OT1/cmr/m/n/10 = \OML/cmm/m/it/1
 0 exp\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 i\OT1/cmr/m/n/10 ^^H\OML/cmm/m/it/10 =F\
 OT1/cmr/m/n/10 )$, $^^H = \OML/cmm/m/it/10 ^^U[]^^^[]$ \OT1/cmr/m/n/10 ,(when d
@@ -278,30 +287,30 @@ efin-ing pion nu-cleon la-grangian,we
  []
 
 [3] [4]
-Overfull \hbox (0.11328pt too wide) detected at line 189
+Overfull \hbox (0.11328pt too wide) detected at line 190
 \OMS/cmsy/m/n/10 L[] \OT1/cmr/m/n/10 = [][]\OML/cmm/m/it/10 @[]\OT1/cmr/m/n/10 
 ^^H\OML/cmm/m/it/10 @[]\OT1/cmr/m/n/10 ^^H[] + [] + []\OMS/cmsy/m/n/10 h\OT1/cm
 r/m/n/10 ^^H[]\OMS/cmsy/m/n/10 i \OT1/cmr/m/n/10 + [] []
  []
 
 [5] [6]
-Overfull \hbox (14.90771pt too wide) detected at line 243
+Overfull \hbox (14.90771pt too wide) detected at line 244
 \OMS/cmsy/m/n/10 L[] \OT1/cmr/m/n/10 = [] [] 	
  []
 
 [7]
-Overfull \hbox (8.05908pt too wide) detected at line 292
+Overfull \hbox (8.05908pt too wide) detected at line 293
 \OMS/cmsy/m/n/10 L[] \OT1/cmr/m/n/10 = [] [] 	
  []
 
 
-Overfull \hbox (8.97284pt too wide) in paragraph at lines 311--312
+Overfull \hbox (8.97284pt too wide) in paragraph at lines 312--313
 []\OT1/cmr/m/n/10 Baryonic Ef-fec-tive La-grangian (pi here should be big Pi,th
 is is a mis-take,correct
  []
 
 
-Overfull \hbox (123.01212pt too wide) detected at line 317
+Overfull \hbox (123.01212pt too wide) detected at line 318
 \OMS/cmsy/m/n/10 L[] \OT1/cmr/m/n/10 = [] [] 	
  []
 
@@ -315,7 +324,7 @@ Package epstopdf Info: Source file: <images/single_pion_vertex.eps>
 (epstopdf)                    size: 5848 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/single_pion_vertex-
 eps-converted-to.pdf images/single_pion_vertex.eps>
-(epstopdf)             \includegraphics on input line 335.
+(epstopdf)             \includegraphics on input line 336.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -327,7 +336,7 @@ t>
 File: images/single_pion_vertex-eps-converted-to.pdf Graphic file (type pdf)
 <use images/single_pion_vertex-eps-converted-to.pdf>
 Package pdftex.def Info: images/single_pion_vertex-eps-converted-to.pdf  used o
-n input line 335.
+n input line 336.
 (pdftex.def)             Requested size: 142.26378pt x 95.7327pt.
 Package epstopdf Info: Source file: <images/single_pion_vertex.eps>
 (epstopdf)                    date: 2020-06-23 17:00:05
@@ -338,12 +347,12 @@ Package epstopdf Info: Source file: <images/single_pion_vertex.eps>
 (epstopdf)                    size: 5848 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/single_pion_vertex-
 eps-converted-to.pdf images/single_pion_vertex.eps>
-(epstopdf)             \includegraphics on input line 337.
+(epstopdf)             \includegraphics on input line 338.
 Package epstopdf Info: Output file is already uptodate.
 File: images/single_pion_vertex-eps-converted-to.pdf Graphic file (type pdf)
 <use images/single_pion_vertex-eps-converted-to.pdf>
 Package pdftex.def Info: images/single_pion_vertex-eps-converted-to.pdf  used o
-n input line 337.
+n input line 338.
 (pdftex.def)             Requested size: 142.26378pt x 95.7327pt.
 Package epstopdf Info: Source file: <images/baryon_propagator.eps>
 (epstopdf)                    date: 2020-06-23 17:14:23
@@ -354,7 +363,7 @@ pdf>
 (epstopdf)                    size: 3873 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/baryon_propagator-e
 ps-converted-to.pdf images/baryon_propagator.eps>
-(epstopdf)             \includegraphics on input line 338.
+(epstopdf)             \includegraphics on input line 339.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -366,7 +375,7 @@ lowed
 File: images/baryon_propagator-eps-converted-to.pdf Graphic file (type pdf)
 <use images/baryon_propagator-eps-converted-to.pdf>
 Package pdftex.def Info: images/baryon_propagator-eps-converted-to.pdf  used on
- input line 338.
+ input line 339.
 (pdftex.def)             Requested size: 113.81102pt x 76.58493pt.
 Package epstopdf Info: Source file: <images/meson_propargator.eps>
 (epstopdf)                    date: 2020-06-23 17:13:04
@@ -377,7 +386,7 @@ pdf>
 (epstopdf)                    size: 3922 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/meson_propargator-e
 ps-converted-to.pdf images/meson_propargator.eps>
-(epstopdf)             \includegraphics on input line 339.
+(epstopdf)             \includegraphics on input line 340.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -389,7 +398,7 @@ lowed
 File: images/meson_propargator-eps-converted-to.pdf Graphic file (type pdf)
 <use images/meson_propargator-eps-converted-to.pdf>
 Package pdftex.def Info: images/meson_propargator-eps-converted-to.pdf  used on
- input line 339.
+ input line 340.
 (pdftex.def)             Requested size: 113.81102pt x 76.58493pt.
 [9 <./images/single_pion_vertex-eps-converted-to.pdf> <./images/baryon_propagat
 or-eps-converted-to.pdf> <./images/meson_propargator-eps-converted-to.pdf>]
@@ -402,12 +411,12 @@ Package epstopdf Info: Source file: <images/single_pion_vertex.eps>
 (epstopdf)                    size: 5848 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/single_pion_vertex-
 eps-converted-to.pdf images/single_pion_vertex.eps>
-(epstopdf)             \includegraphics on input line 361.
+(epstopdf)             \includegraphics on input line 362.
 Package epstopdf Info: Output file is already uptodate.
 File: images/single_pion_vertex-eps-converted-to.pdf Graphic file (type pdf)
 <use images/single_pion_vertex-eps-converted-to.pdf>
 Package pdftex.def Info: images/single_pion_vertex-eps-converted-to.pdf  used o
-n input line 361.
+n input line 362.
 (pdftex.def)             Requested size: 142.26378pt x 95.7327pt.
 Package epstopdf Info: Source file: <images/single_pion_vertex.eps>
 (epstopdf)                    date: 2020-06-23 17:00:05
@@ -418,12 +427,12 @@ Package epstopdf Info: Source file: <images/single_pion_vertex.eps>
 (epstopdf)                    size: 5848 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/single_pion_vertex-
 eps-converted-to.pdf images/single_pion_vertex.eps>
-(epstopdf)             \includegraphics on input line 363.
+(epstopdf)             \includegraphics on input line 364.
 Package epstopdf Info: Output file is already uptodate.
 File: images/single_pion_vertex-eps-converted-to.pdf Graphic file (type pdf)
 <use images/single_pion_vertex-eps-converted-to.pdf>
 Package pdftex.def Info: images/single_pion_vertex-eps-converted-to.pdf  used o
-n input line 363.
+n input line 364.
 (pdftex.def)             Requested size: 142.26378pt x 95.7327pt.
 Package epstopdf Info: Source file: <images/baryon_propagator.eps>
 (epstopdf)                    date: 2020-06-23 17:14:23
@@ -434,12 +443,12 @@ pdf>
 (epstopdf)                    size: 3873 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/baryon_propagator-e
 ps-converted-to.pdf images/baryon_propagator.eps>
-(epstopdf)             \includegraphics on input line 364.
+(epstopdf)             \includegraphics on input line 365.
 Package epstopdf Info: Output file is already uptodate.
 File: images/baryon_propagator-eps-converted-to.pdf Graphic file (type pdf)
 <use images/baryon_propagator-eps-converted-to.pdf>
 Package pdftex.def Info: images/baryon_propagator-eps-converted-to.pdf  used on
- input line 364.
+ input line 365.
 (pdftex.def)             Requested size: 113.81102pt x 76.58493pt.
 Package epstopdf Info: Source file: <images/meson_propargator.eps>
 (epstopdf)                    date: 2020-06-23 17:13:04
@@ -450,26 +459,26 @@ pdf>
 (epstopdf)                    size: 3922 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/meson_propargator-e
 ps-converted-to.pdf images/meson_propargator.eps>
-(epstopdf)             \includegraphics on input line 365.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 File: images/meson_propargator-eps-converted-to.pdf Graphic file (type pdf)
 <use images/meson_propargator-eps-converted-to.pdf>
 Package pdftex.def Info: images/meson_propargator-eps-converted-to.pdf  used on
- input line 365.
+ input line 366.
 (pdftex.def)             Requested size: 113.81102pt x 76.58493pt.
 
 [10]
-Overfull \hbox (22.51465pt too wide) in paragraph at lines 378--379
+Overfull \hbox (22.51465pt too wide) in paragraph at lines 379--380
 []\OT1/cmr/m/n/10 [[]] [[]] [[]] 
  []
 
 
-Overfull \hbox (5.13806pt too wide) in alignment at lines 413--424
+Overfull \hbox (5.13806pt too wide) in alignment at lines 414--425
  [][][] []
  []
 
 
-Overfull \hbox (52.60481pt too wide) in paragraph at lines 427--430
+Overfull \hbox (52.60481pt too wide) in paragraph at lines 428--431
 []\OT1/cmr/m/n/10 Where $\OML/cmm/m/it/10 ^^_$ \OT1/cmr/m/n/10 , is a lin-ear c
 om-bi-na-tion of a scalar and pseu-doscalar [[]]
  []
@@ -483,13 +492,13 @@ Package epstopdf Info: Source file: <images/Pi_N_FR_one.eps>
 (epstopdf)                    size: 5505 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/Pi_N_FR_one-eps-con
 verted-to.pdf images/Pi_N_FR_one.eps>
-(epstopdf)             \includegraphics on input line 461.
+(epstopdf)             \includegraphics on input line 462.
 Package epstopdf Info: Output file is already uptodate.
 <images/Pi_N_FR_one-eps-converted-to.pdf, id=92, 597.23125pt x 845.1575pt>
 File: images/Pi_N_FR_one-eps-converted-to.pdf Graphic file (type pdf)
 <use images/Pi_N_FR_one-eps-converted-to.pdf>
 Package pdftex.def Info: images/Pi_N_FR_one-eps-converted-to.pdf  used on input
- line 461.
+ line 462.
 (pdftex.def)             Requested size: 113.81102pt x 60.30374pt.
 Package epstopdf Info: Source file: <images/Pi_N_FR_two.eps>
 (epstopdf)                    date: 2021-01-29 01:11:13
@@ -499,13 +508,13 @@ Package epstopdf Info: Source file: <images/Pi_N_FR_two.eps>
 (epstopdf)                    size: 5847 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/Pi_N_FR_two-eps-con
 verted-to.pdf images/Pi_N_FR_two.eps>
-(epstopdf)             \includegraphics on input line 464.
+(epstopdf)             \includegraphics on input line 465.
 Package epstopdf Info: Output file is already uptodate.
 <images/Pi_N_FR_two-eps-converted-to.pdf, id=94, 597.23125pt x 845.1575pt>
 File: images/Pi_N_FR_two-eps-converted-to.pdf Graphic file (type pdf)
 <use images/Pi_N_FR_two-eps-converted-to.pdf>
 Package pdftex.def Info: images/Pi_N_FR_two-eps-converted-to.pdf  used on input
- line 464.
+ line 465.
 (pdftex.def)             Requested size: 113.81102pt x 60.30374pt.
 Package epstopdf Info: Source file: <images/Pi_N_FR_three.eps>
 (epstopdf)                    date: 2021-01-29 01:09:35
@@ -516,13 +525,13 @@ Package epstopdf Info: Source file: <images/Pi_N_FR_three.eps>
 (epstopdf)                    size: 6209 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/Pi_N_FR_three-eps-c
 onverted-to.pdf images/Pi_N_FR_three.eps>
-(epstopdf)             \includegraphics on input line 467.
+(epstopdf)             \includegraphics on input line 468.
 Package epstopdf Info: Output file is already uptodate.
 <images/Pi_N_FR_three-eps-converted-to.pdf, id=96, 597.23125pt x 845.1575pt>
 File: images/Pi_N_FR_three-eps-converted-to.pdf Graphic file (type pdf)
 <use images/Pi_N_FR_three-eps-converted-to.pdf>
 Package pdftex.def Info: images/Pi_N_FR_three-eps-converted-to.pdf  used on inp
-ut line 467.
+ut line 468.
 (pdftex.def)             Requested size: 113.81102pt x 60.30374pt.
 Package epstopdf Info: Source file: <images/Pi_N_FR_four.eps>
 (epstopdf)                    date: 2021-01-29 01:14:23
@@ -532,13 +541,13 @@ Package epstopdf Info: Source file: <images/Pi_N_FR_four.eps>
 (epstopdf)                    size: 6416 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/Pi_N_FR_four-eps-co
 nverted-to.pdf images/Pi_N_FR_four.eps>
-(epstopdf)             \includegraphics on input line 470.
+(epstopdf)             \includegraphics on input line 471.
 Package epstopdf Info: Output file is already uptodate.
 <images/Pi_N_FR_four-eps-converted-to.pdf, id=98, 597.23125pt x 845.1575pt>
 File: images/Pi_N_FR_four-eps-converted-to.pdf Graphic file (type pdf)
 <use images/Pi_N_FR_four-eps-converted-to.pdf>
 Package pdftex.def Info: images/Pi_N_FR_four-eps-converted-to.pdf  used on inpu
-t line 470.
+t line 471.
 (pdftex.def)             Requested size: 113.81102pt x 60.30374pt.
 Package epstopdf Info: Source file: <images/Pi_N_FR_pion.eps>
 (epstopdf)                    date: 2021-01-29 01:16:15
@@ -548,21 +557,21 @@ Package epstopdf Info: Source file: <images/Pi_N_FR_pion.eps>
 (epstopdf)                    size: 6360 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/Pi_N_FR_pion-eps-co
 nverted-to.pdf images/Pi_N_FR_pion.eps>
-(epstopdf)             \includegraphics on input line 473.
+(epstopdf)             \includegraphics on input line 474.
 Package epstopdf Info: Output file is already uptodate.
 <images/Pi_N_FR_pion-eps-converted-to.pdf, id=100, 597.23125pt x 845.1575pt>
 File: images/Pi_N_FR_pion-eps-converted-to.pdf Graphic file (type pdf)
 <use images/Pi_N_FR_pion-eps-converted-to.pdf>
 Package pdftex.def Info: images/Pi_N_FR_pion-eps-converted-to.pdf  used on inpu
-t line 473.
+t line 474.
 (pdftex.def)             Requested size: 113.81102pt x 60.30374pt.
 
-Overfull \hbox (35.15881pt too wide) in paragraph at lines 474--475
+Overfull \hbox (35.15881pt too wide) in paragraph at lines 475--476
  []|$[] []$| 
  []
 
 
-Overfull \hbox (60.88582pt too wide) in paragraph at lines 457--479
+Overfull \hbox (60.88582pt too wide) in paragraph at lines 458--480
 [][] 
  []
 
@@ -578,17 +587,17 @@ f>
 (epstopdf)                    size: 4088 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/Pi_N_FR_fermion-eps
 -converted-to.pdf images/Pi_N_FR_fermion.eps>
-(epstopdf)             \includegraphics on input line 494.
+(epstopdf)             \includegraphics on input line 495.
 Package epstopdf Info: Output file is already uptodate.
 <images/Pi_N_FR_fermion-eps-converted-to.pdf, id=143, 597.23125pt x 845.1575pt>
 
 File: images/Pi_N_FR_fermion-eps-converted-to.pdf Graphic file (type pdf)
 <use images/Pi_N_FR_fermion-eps-converted-to.pdf>
 Package pdftex.def Info: images/Pi_N_FR_fermion-eps-converted-to.pdf  used on i
-nput line 494.
+nput line 495.
 (pdftex.def)             Requested size: 113.81102pt x 44.02254pt.
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 494--494
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 495--495
  []|[]| 
  []
 
@@ -601,27 +610,27 @@ Package epstopdf Info: Source file: <images/Pi_N_FR_meson.eps>
 (epstopdf)                    size: 4112 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/Pi_N_FR_meson-eps-c
 onverted-to.pdf images/Pi_N_FR_meson.eps>
-(epstopdf)             \includegraphics on input line 496.
+(epstopdf)             \includegraphics on input line 497.
 Package epstopdf Info: Output file is already uptodate.
 <images/Pi_N_FR_meson-eps-converted-to.pdf, id=145, 597.23125pt x 845.1575pt>
 File: images/Pi_N_FR_meson-eps-converted-to.pdf Graphic file (type pdf)
 <use images/Pi_N_FR_meson-eps-converted-to.pdf>
 Package pdftex.def Info: images/Pi_N_FR_meson-eps-converted-to.pdf  used on inp
-ut line 496.
+ut line 497.
 (pdftex.def)             Requested size: 113.81102pt x 44.02254pt.
 
-Overfull \hbox (14.22638pt too wide) in paragraph at lines 496--496
+Overfull \hbox (14.22638pt too wide) in paragraph at lines 497--497
  []|[]| 
  []
 
 [14 <./images/Pi_N_FR_fermion-eps-converted-to.pdf> <./images/Pi_N_FR_meson-eps
 -converted-to.pdf>] [15] [16]
-Overfull \hbox (73.40884pt too wide) in alignment at lines 579--586
+Overfull \hbox (73.40884pt too wide) in alignment at lines 580--587
  [][][] []
  []
 
 [17]
-Overfull \hbox (0.38033pt too wide) in paragraph at lines 593--594
+Overfull \hbox (0.38033pt too wide) in paragraph at lines 594--595
 []\OT1/cmr/m/n/10 Loop in-te-grals ap-pear, when cal-cu-lat-ing Feyn-man di-a-g
 rams with loops. They
  []
@@ -630,31 +639,31 @@ rams with loops. They
 File: images/types of loops/meson.pdf Graphic file (type pdf)
 <use images/types of loops/meson.pdf>
 Package pdftex.def Info: images/types of loops/meson.pdf  used on input line 60
-1.
+2.
 (pdftex.def)             Requested size: 71.13188pt x 67.04985pt.
 <images/types of loops/meson_baryon_e.pdf, id=173, 597.23125pt x 845.1575pt>
 File: images/types of loops/meson_baryon_e.pdf Graphic file (type pdf)
 <use images/types of loops/meson_baryon_e.pdf>
 Package pdftex.def Info: images/types of loops/meson_baryon_e.pdf  used on inpu
-t line 615.
+t line 616.
 (pdftex.def)             Requested size: 85.35826pt x 45.2282pt.
 <images/types of loops/meson_2baryon_e.pdf, id=175, 597.23125pt x 845.1575pt>
 File: images/types of loops/meson_2baryon_e.pdf Graphic file (type pdf)
 <use images/types of loops/meson_2baryon_e.pdf>
 Package pdftex.def Info: images/types of loops/meson_2baryon_e.pdf  used on inp
-ut line 616.
+ut line 617.
 (pdftex.def)             Requested size: 85.35826pt x 45.2282pt.
 <images/types of loops/meson_3baryon_e.pdf, id=177, 597.23125pt x 845.1575pt>
 File: images/types of loops/meson_3baryon_e.pdf Graphic file (type pdf)
 <use images/types of loops/meson_3baryon_e.pdf>
 Package pdftex.def Info: images/types of loops/meson_3baryon_e.pdf  used on inp
-ut line 617.
+ut line 618.
 (pdftex.def)             Requested size: 85.35826pt x 45.2282pt.
 <images/types of loops/2meson.pdf, id=179, 597.23125pt x 845.1575pt>
 File: images/types of loops/2meson.pdf Graphic file (type pdf)
 <use images/types of loops/2meson.pdf>
 Package pdftex.def Info: images/types of loops/2meson.pdf  used on input line 6
-33.
+34.
 (pdftex.def)             Requested size: 71.13188pt x 59.92278pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -666,21 +675,21 @@ son_3baryon_e.pdf>]
 File: images/types of loops/2meson_baryon.pdf Graphic file (type pdf)
 <use images/types of loops/2meson_baryon.pdf>
 Package pdftex.def Info: images/types of loops/2meson_baryon.pdf  used on input
- line 648.
+ line 649.
 (pdftex.def)             Requested size: 71.13188pt x 59.92278pt.
 
-Overfull \hbox (13.87999pt too wide) in alignment at lines 678--692
+Overfull \hbox (13.87999pt too wide) in alignment at lines 679--693
  [][][] []
  []
 
 [19 <./images/types of loops/2meson.pdf> <./images/types of loops/2meson_baryon
 .pdf>] [20]
-Overfull \hbox (89.57579pt too wide) in alignment at lines 698--731
+Overfull \hbox (89.57579pt too wide) in alignment at lines 699--732
  [][][] []
  []
 
 
-Overfull \hbox (0.68886pt too wide) in paragraph at lines 734--735
+Overfull \hbox (0.68886pt too wide) in paragraph at lines 735--736
 []\OT1/cmr/m/n/10 Here $[] [] = [] []$, $^^C[] = \OML/cmm/m/it/10 ^^U[] \OMS/cm
 sy/m/n/10 ^^@ \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ^^U [] \OT1/cmr/m/n/10 + \OML/c
 mm/m/it/10 M[]$ \OT1/cmr/m/n/10 ,$\OML/cmm/m/it/10 c[] \OT1/cmr/m/n/10 = \OML/c
@@ -688,268 +697,283 @@ mm/m/it/10 M[] \OMS/cmsy/m/n/10 ^^@ [][]$\OT1/cmr/m/n/10 ,
  []
 
 
-Overfull \hbox (90.50984pt too wide) in alignment at lines 742--765
+Overfull \hbox (90.50984pt too wide) in alignment at lines 743--766
  [][][] []
  []
 
 [21] [22]
-Overfull \hbox (22.3626pt too wide) in alignment at lines 801--803
+Overfull \hbox (22.3626pt too wide) in alignment at lines 802--804
  [][][] []
  []
 
 
-Overfull \hbox (9.01797pt too wide) in alignment at lines 809--812
+Overfull \hbox (9.01797pt too wide) in alignment at lines 810--813
  [][][] []
  []
 
 
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 772--817
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 773--818
  [] 
  []
 
 [23]
-Overfull \hbox (63.09721pt too wide) in paragraph at lines 828--889
+Overfull \hbox (63.09721pt too wide) in paragraph at lines 829--890
  [] 
  []
 
 [24]
-Overfull \hbox (63.09721pt too wide) in paragraph at lines 895--943
+Overfull \hbox (63.09721pt too wide) in paragraph at lines 896--944
  [] 
  []
 
 [25]
-Overfull \hbox (0.69362pt too wide) in paragraph at lines 959--960
+Overfull \hbox (0.69362pt too wide) in paragraph at lines 960--961
 []|$\OML/cmm/m/it/10 J\OT1/cmr/m/n/10 ^^A[]$ 
  []
 
 
-Overfull \hbox (24.89832pt too wide) in alignment at lines 961--963
+Overfull \hbox (24.89832pt too wide) in alignment at lines 962--964
  [][][] []
  []
 
 
-Overfull \hbox (1.10616pt too wide) in alignment at lines 970--972
+Overfull \hbox (1.10616pt too wide) in alignment at lines 971--973
  [][][] []
  []
 
 
-Overfull \hbox (63.09721pt too wide) in paragraph at lines 949--979
+Overfull \hbox (63.09721pt too wide) in paragraph at lines 950--980
  [] 
  []
 
 [26]
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 991--1066
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 992--1067
  [] 
  []
 
 [27]
-Overfull \hbox (20.84648pt too wide) in alignment at lines 1080--1081
+Overfull \hbox (20.84648pt too wide) in alignment at lines 1081--1082
  [][][] []
  []
 
 
-Overfull \hbox (28.83276pt too wide) in alignment at lines 1093--1093
+Overfull \hbox (28.83276pt too wide) in alignment at lines 1094--1094
  [][][] []
  []
 
 
-Overfull \hbox (0.69362pt too wide) in paragraph at lines 1097--1098
+Overfull \hbox (0.69362pt too wide) in paragraph at lines 1098--1099
 []|$\OML/cmm/m/it/10 J\OT1/cmr/m/n/10 ^^A[]$ 
  []
 
 
-Overfull \hbox (1.51895pt too wide) in alignment at lines 1105--1106
+Overfull \hbox (1.51895pt too wide) in alignment at lines 1106--1107
  [][][] []
  []
 
 
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1071--1112
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1072--1113
  [] 
  []
 
 [28]
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1119--1164
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1120--1165
  [] 
  []
 
 [29]
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1176--1219
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1177--1220
  [] 
  []
 
 [30]
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1224--1267
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1225--1268
  [] 
  []
 
 [31]
-Overfull \hbox (0.69362pt too wide) in paragraph at lines 1307--1308
+Overfull \hbox (0.69362pt too wide) in paragraph at lines 1308--1309
 []|$\OML/cmm/m/it/10 J\OT1/cmr/m/n/10 ^^A[]$ 
  []
 
 
-Overfull \hbox (16.36241pt too wide) in alignment at lines 1309--1311
+Overfull \hbox (16.36241pt too wide) in alignment at lines 1310--1312
  [][][] []
  []
 
 
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1272--1316
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1273--1317
  [] 
  []
 
 [32]
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1321--1365
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1322--1366
  [] 
  []
 
 [33]
-Overfull \hbox (21.466pt too wide) in alignment at lines 1405--1406
+Overfull \hbox (21.466pt too wide) in alignment at lines 1406--1407
  [][][] []
  []
 
 
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1371--1411
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1372--1412
  [] 
  []
 
 [34]
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1417--1456
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1418--1457
  [] 
  []
 
 [35]
-Overfull \hbox (28.83276pt too wide) in alignment at lines 1496--1496
+Overfull \hbox (28.83276pt too wide) in alignment at lines 1497--1497
  [][][] []
  []
 
 
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1460--1501
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1461--1502
  [] 
  []
 
 [36]
-Overfull \hbox (0.69362pt too wide) in paragraph at lines 1537--1538
+Overfull \hbox (0.69362pt too wide) in paragraph at lines 1538--1539
 []|$\OML/cmm/m/it/10 J\OT1/cmr/m/n/10 ^^A[]$ 
  []
 
 
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1505--1544
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1506--1545
  [] 
  []
 
 [37]
-Overfull \hbox (1.51895pt too wide) in alignment at lines 1582--1583
+Overfull \hbox (1.51895pt too wide) in alignment at lines 1583--1584
  [][][] []
  []
 
 
-Overfull \hbox (71.63312pt too wide) in paragraph at lines 1548--1588
+Overfull \hbox (71.63312pt too wide) in paragraph at lines 1549--1589
  [] 
  []
 
 [38]
-Overfull \hbox (100.07939pt too wide) in alignment at lines 1595--1628
+Overfull \hbox (100.07939pt too wide) in alignment at lines 1596--1629
  [][][] []
  []
 
 [39]
-Overfull \hbox (6.7398pt too wide) in alignment at lines 1646--1650
+Overfull \hbox (6.7398pt too wide) in alignment at lines 1647--1651
  [][][] []
  []
 
 [40] [41]
-Overfull \hbox (10.24866pt too wide) in alignment at lines 1795--1798
+Overfull \hbox (10.24866pt too wide) in alignment at lines 1796--1799
  [][][] []
  []
 
 [42]
-Overfull \hbox (53.07925pt too wide) in alignment at lines 1808--1810
+Overfull \hbox (53.07925pt too wide) in alignment at lines 1809--1811
  [][][] []
  []
 
 [43] [44]
-Overfull \hbox (20.33049pt too wide) in paragraph at lines 1839--1839
+Overfull \hbox (20.33049pt too wide) in paragraph at lines 1840--1840
  []|$\OML/cmm/m/it/10 S[]; \OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 I[]; G[]\OMS/cmsy
 /m/n/10 g[]$| 
  []
 
 
-Overfull \hbox (20.33049pt too wide) in paragraph at lines 1840--1840
+Overfull \hbox (20.33049pt too wide) in paragraph at lines 1841--1841
  []|$\OML/cmm/m/it/10 I[]; \OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 S[]; G[]\OMS/cmsy
 /m/n/10 g[]$| 
  []
 
 
-Overfull \hbox (5.86789pt too wide) in paragraph at lines 1843--1843
+Overfull \hbox (5.86789pt too wide) in paragraph at lines 1844--1844
  []|$\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 S[]; G[]\OMS/cmsy/m/n/10 g[]$| 
  []
 
 
-Overfull \hbox (5.84848pt too wide) in paragraph at lines 1844--1844
+Overfull \hbox (5.84848pt too wide) in paragraph at lines 1845--1845
  []|$\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 I[]; G[]\OMS/cmsy/m/n/10 g[]$| 
  []
 
 
-Overfull \hbox (5.86789pt too wide) in paragraph at lines 1847--1847
+Overfull \hbox (5.86789pt too wide) in paragraph at lines 1848--1848
  []|$\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 S[]; G[]\OMS/cmsy/m/n/10 g[]$| 
  []
 
 
-Overfull \hbox (5.84848pt too wide) in paragraph at lines 1848--1848
+Overfull \hbox (5.84848pt too wide) in paragraph at lines 1849--1849
  []|$\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 I[]; G[]\OMS/cmsy/m/n/10 g[]$| 
  []
 
 
-Overfull \hbox (11.423pt too wide) in paragraph at lines 1849--1849
+Overfull \hbox (11.423pt too wide) in paragraph at lines 1850--1850
  []|$\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 G[]; G[]\OMS/cmsy/m/n/10 g[]$| 
  []
 
 
-Overfull \hbox (89.58783pt too wide) in alignment at lines 1854--1864
+Overfull \hbox (89.58783pt too wide) in alignment at lines 1855--1865
  [][][] []
  []
 
 [45] [46]
-Overfull \hbox (24.16776pt too wide) in alignment at lines 1879--1882
+Overfull \hbox (24.16776pt too wide) in alignment at lines 1880--1883
  [][][] []
  []
 
 [47]
-Overfull \hbox (29.15495pt too wide) in paragraph at lines 1897--1897
+Overfull \hbox (29.15495pt too wide) in paragraph at lines 1898--1898
 []\OT1/cmr/bx/n/10 Order of in-dices in pro-jec-tors when tak-ing hermitian-con
 jugate(this
  []
 
 LaTeX Font Info:    Trying to load font information for U+euf on input line 191
-5.
+6.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 ) [48] [49]
-Overfull \hbox (6.20668pt too wide) in paragraph at lines 1966--1981
+Overfull \hbox (6.20668pt too wide) in paragraph at lines 1967--1982
 [][] 
  []
 
 [50]
-Overfull \hbox (6.20668pt too wide) in paragraph at lines 1998--2013
+Overfull \hbox (6.20668pt too wide) in paragraph at lines 1999--2014
 [][] 
  []
 
-[51] [52] [53]
-Overfull \hbox (125.09596pt too wide) in alignment at lines 2086--2088
+[51] [52]
+Overfull \hbox (20.43306pt too wide) in paragraph at lines 2081--2096
+[][] 
+ []
+
+[53]
+Overfull \hbox (6.20668pt too wide) in paragraph at lines 2114--2129
+[][] 
+ []
+
+[54]
+Overfull \hbox (6.20668pt too wide) in paragraph at lines 2146--2161
+[][] 
+ []
+
+[55] [56] [57]
+Overfull \hbox (125.09596pt too wide) in alignment at lines 2192--2194
  [][][] []
  []
 
 
-Overfull \hbox (180.7033pt too wide) in alignment at lines 2090--2092
+Overfull \hbox (180.7033pt too wide) in alignment at lines 2196--2198
  [][][] []
  []
 
 
-Overfull \hbox (145.7261pt too wide) in alignment at lines 2095--2105
+Overfull \hbox (145.7261pt too wide) in alignment at lines 2201--2211
  [][][] []
  []
 
-[54] (./BChPTnotes.bbl) [55] (./BChPTnotes.aux)
+[58] (./BChPTnotes.bbl) [59] (./BChPTnotes.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -961,7 +985,7 @@ Here is how much of TeX's memory you used:
  21804 multiletter control sequences out of 15000+600000
  474297 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 68i,18n,77p,1016b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,21n,77p,1016b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/dulitha/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.6
 00pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/s
@@ -982,10 +1006,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/euler/eufm5.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/euler/eufm7.pfb>
-Output written on BChPTnotes.pdf (55 pages, 370906 bytes).
+Output written on BChPTnotes.pdf (59 pages, 377813 bytes).
 PDF statistics:
- 433 PDF objects out of 1000 (max. 8388607)
- 288 compressed objects within 3 object streams
+ 445 PDF objects out of 1000 (max. 8388607)
+ 296 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  207 words of extra memory for PDF output out of 10000 (max. 10000000)
 
